@@ -1,6 +1,6 @@
 from telebot import TeleBot
 
-BOT_TOKEN = 'MINHA CHAVE API'
+BOT_TOKEN = '5718661133:AAFky_ov_UjVCSUbJuji75E0lOWQbb5Lvoo'
 bot = TeleBot(BOT_TOKEN)
 
 @bot.message_handler(commands=['start', 'olá'])
